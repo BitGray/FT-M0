@@ -1,0 +1,44 @@
+.contenedor{
+    /* width: 500px; */
+     /* height: 100vh; view height */
+    background-color: red;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+header{text-align: center;
+    background-color: yellow;
+}
+
+nav{
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    background-color: green;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer{
+    text-align: center;
+    background-color: magenta;
+    
+}
+
+
+
+
+
+
+/* 
+. es para class
+# es para id
+ */
